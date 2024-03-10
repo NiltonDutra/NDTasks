@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  ![ND-Taskss](https://github.com/NiltonDutra/NDTasks/assets/67064216/62b3b08f-2387-487a-a944-44af33c95cfb)
 </p>
 
 
