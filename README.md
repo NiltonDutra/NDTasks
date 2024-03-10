@@ -4,5 +4,5 @@
 
 ## 💻 Projeto
 
-E-tasks é um projeto que foi desenvolvido exclusivamente para treinarmos responsividade com styled-components.
+ND-Tasks is a project that was developed exclusively to train responsiveness with styled-components.
 
