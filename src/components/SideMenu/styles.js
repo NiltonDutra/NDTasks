@@ -12,7 +12,14 @@ export const Container = styled.aside`
 
   @media (max-width: ${DEVICE_BREAKPOINTS.MD}){
     grid-area: none;
+    position: absolute;
+    z-index: 1;
+
     display: none;
+
+    &[data-menu-is-open="true"] {
+     display: block;
+    }
   }
 `;
 
@@ -82,8 +89,9 @@ export const Button = styled.button`
     border: none;
 
   > svg {
-    font-size: 20px;
+    font-size: 2rem;
     color: ${({ theme }) => theme.COLORS.GRAY_300};
+    
   }
 `;
 
